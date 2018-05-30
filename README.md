@@ -1,2 +1,2 @@
 # prac
-First repository
+First repository to get used to GitHub
